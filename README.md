@@ -4,7 +4,7 @@ This is a standardization spec and helper for websom.
 
 View the currently supported standards [here](https://github.com/AskingQuestions/Standards/wiki/Current-Standards).
 
-[Documentation](https://askingquestions.github.io/Standards/Docs/en/html/group___user_system.html)
+[Documentation](https://askingquestions.github.io/Standards/Docs/en/html/index.html)
 
 [Module page](http://www.echorial.com/Websom/Module/1)
 
